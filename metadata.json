@@ -1,0 +1,7 @@
+{
+  "name": "CineNYC - Premium Movie Booking",
+  "description": "A high-end movie ticket booking platform tailored for New York City, featuring AI-powered recommendations and a seamless seat selection experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
